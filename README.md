@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANandasaad
-- 👀 I’m interested in webdevelpoment
+- 👀 I’m interested in webdevelpoment(MERN Stack)
 - 🌱 I’m currently learning Java , Javascript , CSS, HTML , node.js amd react.js
 
 
