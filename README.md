@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ANandasaad
-- 👀 I’m interested in webdevelpoment(MERN Stack)
-- 🌱 I’m currently learning Java , Javascript , CSS, HTML , node.js amd react.js
+- 👋 Hi, I’m Anand kushwaha
+- 👀 I’m Software Developer 
+- 🌱 Tech StacK:-  Javascript ,REACT js, CSS/HTML , node.js, Express, Prisma, typescript, GraphQl, mongodb
 
 
 <!---
