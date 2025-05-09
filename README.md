@@ -1,67 +1,105 @@
-# 👋 Hi there, I'm Anand Kushwaha
+<h1 align="center">Hi 👋, I'm Anand Kushwaha</h1>
 
-🎯 **Software Developer | Backend Engineer**  
-📍 Noida, India  
-📧 anandkushwaha70@gmail.com | 📱 +91 99153-63698  
-🌐 [LinkedIn](https://linkedin.com/in/anand-kushwaha-b352bb1ba) | [GitHub](https://github.com/ANandasaad)  
-📄 [View Resume (PDF)](https://www.dropbox.com/scl/fi/vy0iavb29uqqh9uh6dedb/1677613250953-certificate.png?rlkey=dqq3s5ym6zkkrqtyt4okofnod&e=1&dl=0)
-
----
-
-## 👨‍💻 About Me
-
-🚀 Backend Developer with **3+ years of experience** building scalable, efficient, and robust systems.  
-💻 Specialized in **MERN Stack**, Microservices, REST/GraphQL APIs, and real-time systems.  
-🌱 Passionate about performance, clean architecture, and adopting modern backend technologies.
+<p align="center">
+  <b>Backend Developer | System Design Enthusiast | Microservices Architect</b><br/>
+  <a href="https://linkedin.com/in/anand-kushwaha-b352bb1ba">LinkedIn</a> •
+  <a href="https://github.com/ANandasaad">GitHub</a> •
+  <a href="mailto:anandkushwaha70@gmail.com">Email</a> •
+  <a href="https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=drive_link">Resume</a>
+</p>
 
 ---
 
-## 💡 Tech Stack
+### 🧠 About Me
 
+I’m a **Backend Developer** with 3+ years of experience in building highly scalable, fault-tolerant systems using **JavaScript**, **Node.js**, **Python**, and **TypeScript**. I specialize in **Microservices Architecture**, **System Design**, and **Real-Time Communication**.
+
+> 💡 Passionate about clean architecture, DevOps practices, and making backend systems that **just scale**.
+
+---
+
+### ⚙️ Tech Toolbox
+
+#### 💻 Languages & Frameworks
 - **Languages:** JavaScript, TypeScript, Python, SQL  
-- **Frameworks:** Node.js, Express, React, FastAPI, Next.js  
+- **Frameworks:** Node.js, Express.js, FastAPI, React.js, Next.js
+
+#### 🛠️ Backend & Architecture
+- **Microservices**, REST APIs, GraphQL APIs, Event-driven systems  
+- **Authentication:** JWT, OAuth2, RBAC  
+- **Real-Time:** WebSocket, Socket.io, Redis Pub/Sub
+
+#### 🗃️ Database & Messaging
 - **Databases:** MongoDB, PostgreSQL, Firebase  
 - **ORMs:** Prisma, Mongoose, Sequelize  
-- **DevOps:** Docker, Kubernetes, GitHub Actions, Nginx  
-- **Real-time & Messaging:** Socket.io, Redis Pub/Sub, RabbitMQ, NATS, Kafka  
-- **APIs:** REST, GraphQL  
-- **Tools:** Git, VS Code, Postman, Jest
+- **Message Brokers:** RabbitMQ, Kafka, NATS
+
+#### 🐳 DevOps & Tools
+- Docker, Kubernetes, GitHub Actions, Nginx  
+- Testing: Jest, Postman  
+- Cloud: AWS  
+- Tools: Git, VS Code
 
 ---
 
-## 🧠 Projects
+### 🧩 System Design Skills
 
-### 🔧 Co-Creation App
-**Tech:** JavaScript, PostgreSQL, Prisma, RabbitMQ, Redis, Socket.io  
-- Real-time project collaboration with multi-role support  
-- Optimized PostgreSQL queries for scalable performance  
-- Secure role-based task management and email invites
-
-### 🌾 Grainstore App
-**Tech:** JavaScript, MongoDB, Mongoose, Razorpay, NodeMailer  
-- Inventory and crop management platform for farmers  
-- Premium feature access with Razorpay payment gateway  
-- Performance-tuned queries for fast data operations
-
-### 🎫 Ticket Booking Microservices
-**Tech:** TypeScript, Node.js, React.js, RabbitMQ, Docker, Kubernetes  
-- Microservices architecture for tickets, payments, notifications  
-- Real-time booking updates with Socket.io  
-- Scalable deployment with Docker + Kubernetes
+- Designing scalable **microservices** with domain-driven design  
+- Event sourcing, eventual consistency, and message queues  
+- Optimizing database schema, caching strategies, and read/write separation  
+- Scalable APIs with load balancing, service discovery & circuit breakers  
+- Deployment pipelines with Docker & Kubernetes
 
 ---
 
-## 🏆 Achievements
+### 🚀 Highlight Projects
 
-- 🧠 Solved **400+ DSA problems** on LeetCode & GFG  
-- 📜 Certified **React JS Developer**
+#### 🔧 Co-Creation App
+*Collaborative app with real-time updates and AI-assisted task management*  
+**Stack:** PostgreSQL, Prisma, Redis, RabbitMQ, Socket.io  
+- Built advanced RBAC with invitation-based user roles  
+- Real-time sync with Redis Pub/Sub  
+- Clean code architecture and scalable services
+
+#### 🌾 Grainstore (B2C App for Farmers)
+*Subscription-based agricultural planning and crop tracking*  
+**Stack:** Node.js, MongoDB, Razorpay, NodeMailer  
+- Implemented analytics-based moisture prediction logic  
+- Integrated Razorpay for premium tier management  
+- Optimized performance with efficient Mongo queries
+
+#### 🎫 Ticket Booking Platform (Microservices)
+*Event booking with real-time updates and payment system*  
+**Stack:** TypeScript, Node.js, React, RabbitMQ, Docker, Kubernetes  
+- Built modular services for orders, payments, notifications  
+- Real-time updates using Socket.io + EventBus  
+- Deployed on Kubernetes with Docker-based CI/CD
 
 ---
 
-## 📌 Resume
+### 🏆 Achievements
 
-📄 [View or Download Resume (PDF)](https://www.dropbox.com/scl/fi/vy0iavb29uqqh9uh6dedb/1677613250953-certificate.png?rlkey=dqq3s5ym6zkkrqtyt4okofnod&e=1&dl=0)
+- 🧠 Solved 400+ DSA problems (Leetcode, GFG)  
+- 📜 React JS Developer Certification  
+- 🛠️ Built & maintained production-scale backend systems handling thousands of concurrent users
 
 ---
 
-Thanks for visiting my profile! Feel free to connect or collaborate! ✨  
+### 📄 Resume
+
+📥 [Download My Resume (PDF)](https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=drive_link)
+
+---
+
+
+
+### 🙌 Let's Connect!
+
+If you're looking for a **passionate backend developer** who can build production-grade microservices and architect scalable systems — let's talk!
+
+📫 anandkushwaha70@gmail.com | 💬 [LinkedIn](https://linkedin.com/in/anand-kushwaha-b352bb1ba)
+
+---
+
+⭐️ *Thank you for visiting my profile!*
+
