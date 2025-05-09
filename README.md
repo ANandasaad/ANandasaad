@@ -3,9 +3,8 @@
 <p align="center">
   <b>Backend Developer | System Design Enthusiast | Microservices Architect</b><br/>
   <a href="https://linkedin.com/in/anand-kushwaha-b352bb1ba">LinkedIn</a> •
-  <a href="https://github.com/ANandasaad">GitHub</a> •
   <a href="mailto:anandkushwaha70@gmail.com">Email</a> •
-  <a href="https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=drive_link">Resume</a>
+  <a href="https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=sharing">Resume</a>
 </p>
 
 ---
@@ -87,7 +86,7 @@ I’m a **Backend Developer** with 3+ years of experience in building highly sca
 
 ### 📄 Resume
 
-📥 [Download My Resume (PDF)](https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=drive_link)
+📥 [Download My Resume (PDF)](https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=sharing)
 
 ---
 
