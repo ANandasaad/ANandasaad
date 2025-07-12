@@ -91,11 +91,6 @@ Specialized in:
 - 📜 Certified React JS Developer  
 - 🔧 Developed production-grade systems used by 50K+ users
 
----
-
-### 📄 Resume
-
-📥 [Download My Resume (PDF)](https://drive.google.com/file/d/1fwFzi9He74q-ZtZ12lsr7NpPel-TdYad/view?usp=sharing)
 
 ---
 
