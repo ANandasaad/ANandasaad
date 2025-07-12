@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#007acc;">Anand Kushwaha</span></h1>
 
 <p align="center">
-  <b>🚀 Backend Developer | 🧠 System Design Enthusiast | 🔧 Microservices Architect</b><br/>
+  <b>🚀 Full Stack Developer | 🧠 System Design Enthusiast | 🔧 Microservices Architect</b><br/>
   <a href="https://linkedin.com/in/anand-kushwaha-b352bb1ba"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:anandkushwaha70@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
   <a href="https://github.com/ANandasaad"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
